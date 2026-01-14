@@ -66,7 +66,7 @@ Menyajikan data dalam tampilan web yang informatif dan user-friendly
 https://github.com/teguhard/tokokita-flask-uas
 
 🎥 Video Presentasi YouTube
-(isi link YouTube di sini)
+https://youtu.be/KdK8U17YBi0
 
 ✅ Kesimpulan
 
@@ -81,3 +81,4 @@ responsif.
 Terima kasih atas perhatian Bapak/Ibu dosen.
 Kami berharap aplikasi ini dapat menjadi contoh implementasi Flask dan API
 publik dalam pengembangan aplikasi web sederhana.
+
